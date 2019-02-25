@@ -171,7 +171,7 @@ long_format=%d-%m-%Y %H:%M:%S
 short_format=%H:%M:%S
 ```
 
-##Reddit
+## Reddit
 A plugin that can display information from Reddit, such as post titles and upvotes.
 
 Options:
